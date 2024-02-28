@@ -48,6 +48,8 @@ class GildedRose
       return brie_tick
       when 'Sulfuras, Hand of Ragnaros'
         return sulfuras_tick
+      when 'Backstage passes to a TAFKAL80ETC concert'
+        return backstage_tick
     end
    
    
